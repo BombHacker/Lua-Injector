@@ -1792,27 +1792,9 @@ end
 
 ---
 
-# 31. Suggested GitHub repo structure
-
-```text
-repo/
- ├─ README.md
- ├─ README_PL.md
- ├─ examples/
- │   ├─ 01_basic_hook.lua
- │   ├─ 02_imgui_menu.lua
- │   ├─ 03_raw_function.lua
- │   ├─ 04_memory_patch.lua
- │   ├─ 05_fields.lua
- │   └─ 06_full_template.lua
- └─ docs/
-     ├─ BOMBA_API.md
-     └─ IMGUI_API.md
-```
-
 ---
 
-# 32. Short cheat sheet
+# 31. Short cheat sheet
 
 ```lua
 -- class
