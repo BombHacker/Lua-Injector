@@ -1,4 +1,4 @@
-# BOMBA Lua API — GitHub Tutorial
+# BOMBA Lua API
 
 This guide explains how to use the **BOMBA Lua API** with hooks, IL2CPP method calls, raw address calls, MemoryPatch, logs, and ImGui.
 
